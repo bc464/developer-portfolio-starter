@@ -29,3 +29,4 @@ If you want more real-time communication, you can visit our community on [Slack]
 For headings: https://fonts.google.com/specimen/Prata
 For body: https://fonts.google.com/specimen/Inter
 # developer-portfolio-starter
+![Screenshot 2022-01-13 at 19-41-21 Developer Portfolio](https://user-images.githubusercontent.com/82536545/149381458-8d182833-f695-4056-a97a-0bac34028be0.png)
